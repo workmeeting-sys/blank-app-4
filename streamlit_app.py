@@ -12,3 +12,6 @@ st.error("❌ 오류 메시지입니다.")
 # 이미지 출력
 st.image("https://static.streamlit.io/examples/cat.jpg", caption="귀여운 고양이", use_container_width=True)
 st.image("https://via.placeholder.com/300", caption="예시 이미지")
+st.button("click!!")
+
+
